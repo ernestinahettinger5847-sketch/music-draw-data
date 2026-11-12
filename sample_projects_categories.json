@@ -96,5 +96,61 @@
     "ro": "Sărbători",
     "ru": "Праздники",
     "vi": "Lễ hội"
+  },
+  {
+    "type": "animal",
+    "en": "Animals",
+    "de": "Tiere",
+    "es": "Animales",
+    "fr": "Animaux",
+    "in": "Hewan",
+    "it": "Animali",
+    "nl": "Dieren",
+    "pt": "Animais",
+    "ro": "Animale",
+    "ru": "Животные",
+    "vi": "Động vật"
+  },
+  {
+    "type": "cute",
+    "en": "Cute",
+    "de": "Süß",
+    "es": "Lindo",
+    "fr": "Mignon",
+    "in": "Lucu",
+    "it": "Carino",
+    "nl": "Schattig",
+    "pt": "Fofo",
+    "ro": "Drăguț",
+    "ru": "Милый",
+    "vi": "Dễ thương"
+  },
+  {
+    "type": "nature",
+    "en": "Nature",
+    "de": "Natur",
+    "es": "Naturaleza",
+    "fr": "Nature",
+    "in": "Alam",
+    "it": "Natura",
+    "nl": "Natuur",
+    "pt": "Natureza",
+    "ro": "Natură",
+    "ru": "Природа",
+    "vi": "Thiên nhiên"
+  },
+  {
+    "type": "people",
+    "en": "People",
+    "de": "Menschen",
+    "es": "Gente",
+    "fr": "Personnes",
+    "in": "Orang",
+    "it": "Persone",
+    "nl": "Mensen",
+    "pt": "Pessoas",
+    "ro": "Oameni",
+    "ru": "Люди",
+    "vi": "Con người"
   }
 ]

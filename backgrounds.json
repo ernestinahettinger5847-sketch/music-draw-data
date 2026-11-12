@@ -1,5 +1,55 @@
 [
   {
+    "id": 1,
+    "name": "bg_1",
+    "image_path": "background/1.webp"
+  },
+  {
+    "id": 2,
+    "name": "bg_10",
+    "image_path": "background/2.webp"
+  },
+  {
+    "id": 3,
+    "name": "bg_11",
+    "image_path": "background/3.webp"
+  },
+  {
+    "id": 4,
+    "name": "bg_12",
+    "image_path": "background/4.webp"
+  },
+  {
+    "id": 5,
+    "name": "bg_13",
+    "image_path": "background/5.webp"
+  },
+  {
+    "id": 6,
+    "name": "bg_14",
+    "image_path": "background/6.webp"
+  },
+  {
+    "id": 7,
+    "name": "bg_15",
+    "image_path": "background/7.webp"
+  },
+  {
+    "id": 8,
+    "name": "bg_2",
+    "image_path": "background/8.webp"
+  },
+  {
+    "id": 9,
+    "name": "bg_3",
+    "image_path": "background/9.webp"
+  },
+  {
+    "id": 10,
+    "name": "bg_4",
+    "image_path": "background/10.webp"
+  },
+  {
     "id": 11,
     "name": "paper-cream",
     "image_path": "background/expansion/paper-cream.webp"
