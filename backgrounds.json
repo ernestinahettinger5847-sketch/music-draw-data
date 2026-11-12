@@ -1,0 +1,122 @@
+[
+  {
+    "id": 11,
+    "name": "paper-cream",
+    "image_path": "background/expansion/paper-cream.webp"
+  },
+  {
+    "id": 12,
+    "name": "paper-rose",
+    "image_path": "background/expansion/paper-rose.webp"
+  },
+  {
+    "id": 13,
+    "name": "paper-grid",
+    "image_path": "background/expansion/paper-grid.webp"
+  },
+  {
+    "id": 14,
+    "name": "paper-dots",
+    "image_path": "background/expansion/paper-dots.webp"
+  },
+  {
+    "id": 15,
+    "name": "paper-staff",
+    "image_path": "background/expansion/paper-staff.webp"
+  },
+  {
+    "id": 16,
+    "name": "paper-parchment",
+    "image_path": "background/expansion/paper-parchment.webp"
+  },
+  {
+    "id": 17,
+    "name": "night-aurora",
+    "image_path": "background/expansion/night-aurora.webp"
+  },
+  {
+    "id": 18,
+    "name": "night-crescent",
+    "image_path": "background/expansion/night-crescent.webp"
+  },
+  {
+    "id": 19,
+    "name": "night-starmap",
+    "image_path": "background/expansion/night-starmap.webp"
+  },
+  {
+    "id": 20,
+    "name": "night-rings",
+    "image_path": "background/expansion/night-rings.webp"
+  },
+  {
+    "id": 21,
+    "name": "night-comet",
+    "image_path": "background/expansion/night-comet.webp"
+  },
+  {
+    "id": 22,
+    "name": "night-dusk",
+    "image_path": "background/expansion/night-dusk.webp"
+  },
+  {
+    "id": 23,
+    "name": "studio-rose-desk",
+    "image_path": "background/expansion/studio-rose-desk.webp"
+  },
+  {
+    "id": 24,
+    "name": "studio-vinyl",
+    "image_path": "background/expansion/studio-vinyl.webp"
+  },
+  {
+    "id": 25,
+    "name": "studio-piano",
+    "image_path": "background/expansion/studio-piano.webp"
+  },
+  {
+    "id": 26,
+    "name": "studio-swatches",
+    "image_path": "background/expansion/studio-swatches.webp"
+  },
+  {
+    "id": 27,
+    "name": "studio-cafe",
+    "image_path": "background/expansion/studio-cafe.webp"
+  },
+  {
+    "id": 28,
+    "name": "studio-stage",
+    "image_path": "background/expansion/studio-stage.webp"
+  },
+  {
+    "id": 29,
+    "name": "festival-lanterns",
+    "image_path": "background/expansion/festival-lanterns.webp"
+  },
+  {
+    "id": 30,
+    "name": "festival-blossoms",
+    "image_path": "background/expansion/festival-blossoms.webp"
+  },
+  {
+    "id": 31,
+    "name": "festival-fireworks",
+    "image_path": "background/expansion/festival-fireworks.webp"
+  },
+  {
+    "id": 32,
+    "name": "festival-snow",
+    "image_path": "background/expansion/festival-snow.webp"
+  },
+  {
+    "id": 33,
+    "name": "festival-autumn",
+    "image_path": "background/expansion/festival-autumn.webp"
+  },
+  {
+    "id": 34,
+    "name": "festival-ribbons",
+    "image_path": "background/expansion/festival-ribbons.webp"
+  }
+]
